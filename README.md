@@ -12,7 +12,9 @@ This notebook will explore a dataset showing values for a biodiversity intactnes
 - Accessing Data from MPC STAC catalog.
 - Data Visualization
 - Statistical Analysis
+- Calculating percentage of area
 
 ### Data
 
 - Biodiversity Intactness Index dataset from the Microsoft Planetary Computer(MPC), SpatioTemporal Asset Catalog (STAC) Catalog
+- Census County Subdivision Arizona TIGER shapefile https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2022&layergroup=County+Subdivisions
